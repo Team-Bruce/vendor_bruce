@@ -1,0 +1,42 @@
+Team Bruce
+===============
+
+모든 변경 사항을 보시려면 'http://github.com/Team-Bruce'에 방문해주세요.
+Visit 'http://github.com/Team-Bruce' for full changelogs.
+
+'Team Bruce'의 정보와 릴리즈된 파일들을 보시려면 'http://teambruce.kr'에 방문해주세요.
+Visit 'http://teambruce.kr' for seeing the informations of 'Team Bruce' and released files.
+
+변경 사항
+CHANGELOG (notable new features)
+---------
+
+### 1.0.0
+* 설정 : 'Team Bruce 로고' 추가
+* 설정 : 'Team Bruce에 대하여 (팀 소개)' 추가
+* 설정 : 'Bruce OS 시스템 업데이트 (OTA)' 추가
+* 설정 : 'Bruce OS 버전' 추가
+* 설정 : 'Bruce OS 이스터 에그' 추가
+* 설정 : '설정' 앱 여백 제거
+* 설정 : 'Trebuchet (CyanogenMod)' 런처로 교체
+* 설정 : 'Trebuchet 설정' 추가
+* 설정 : 휴대전화에 '멀티 유저' 활성화
+* 설정 : 'Xylon Stats' 삭제
+* 설정 : '메모리' 및 'CPU' 정보 추가
+* 설정 : '변경 사항' 추가
+* 설정 : '이퀼라이저 설정 (DSPManager)' 추가
+* Settings : Add 'Team Bruce Logo'
+* Settings : Add 'About Team Bruce (Team Introduction)'
+* Settings : Add 'Bruce OS System Update (OTA)'
+* Settings : Add 'Bruce OS Version'
+* Settings : Add 'Bruce OS Easter Egg'
+* Settings : Remove 'Settings' App Blank
+* Settings : Change launcher to 'Trebuchet (CyanogenMod)'
+* Settings : Add 'Trebuchet Settings'
+* Settings : Enable 'Multi User' on phone
+* Settings : Remove 'Xylon Stats'
+* Settings : Add 'Memory' and 'CPU' information
+* Settings : Add 'Changelog'
+* Settings : Add 'Equalizer Settings (DSPManager)'
+
+
